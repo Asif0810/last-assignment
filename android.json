@@ -1,42 +1,7 @@
 [
     {
-        "category": "button",
-        "image": "https://www.opelmobile.com.au/wp-content/uploads/2018/11/SmartBigButton-3G-3-PNG.png",
-        "location": "Dhaka",
-        "resale_price": 100,
-        "original_price": 500,
-        "date": "jan,1,2023",
-        "seller_name": "sifat",
-        "mobile_name": "nokia 1200"
-    },
-    {
-        "category": "button",
-        "image": "https://tse3.mm.bing.net/th?id=OIP.xJEy0g7H716zzqv6UWZMewHaNK&pid=Api&P=0",
-        "location": "jatrabari",
-        "resale_price": 50,
-        "original_price": 100,
-        "date": "jan,3,2023",
-        "seller_name": "nayem",
-        "mobile_name": "samsung ct"
-    },
-    {
-        "category": "android",
-        "image": "https://tse3.mm.bing.net/th?id=OIP.CVBrT-g_iyY68Qztl_RdtgHaHa&pid=Api&P=0",
-        "location": "narayangang",
-        "resale_price": 100,
-        "original_price": 550,
-        "date": "jan,1,2023",
-        "seller_name": "jahangir",
-        "mobile_name": "redmi note 10 pro"
-    },
-    {
-        "category": "iphone",
-        "image": "https://tse2.mm.bing.net/th?id=OIP.RzRHAUUfUTGFPDqmeD_4mQHaHa&pid=Api&P=0",
-        "location": "dinajpur",
-        "resale_price": 250,
-        "original_price": 800,
-        "date": "jan,1,2023",
-        "seller_name": "jahangir",
-        "mobile_name": "redmi note 10 pro"
+        "name": "md hero",
+        "email": "hero01admin@mail.com",
+        "role": "admin"
     }
 ]
